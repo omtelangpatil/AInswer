@@ -12,7 +12,7 @@ A ChatGPT-like AI chatbot clone built using modern web technologies.
 
 - **Frontend:** React.js, CSS
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB (if applicable)
+- **Database:** MongoDB 
 - **AI Integration:** Clerk, ImageKit.io, Gemini AI API
 
 ## 📦 Installation
